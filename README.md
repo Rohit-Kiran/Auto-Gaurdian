@@ -1,4 +1,4 @@
-# Auto-Gaurdian
+# AutoGaurdian
 **AutoGuardian** is an AI-powered mobile application designed to enhance driving safety, monitor automobile health, optimize fuel consumption, and improve driving habits. This app offers an all-in-one solution for modern car owners.
 
 ---
