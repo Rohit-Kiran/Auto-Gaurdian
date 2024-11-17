@@ -38,11 +38,11 @@ Explore the app prototype by clicking the link below:
 
 ## **Screenshots**
 
-![Log in](https://github.com/Rohit-Kiran/Auto-Gaurdian/blob/main/Log%20in.JPG)  
-![Home Page](https://github.com/Rohit-Kiran/Auto-Gaurdian/blob/main/Home%20page.JPG)
-![Maintenance Page](https://github.com/Rohit-Kiran/Auto-Gaurdian/blob/main/Maintenance%20Page.JPG)
-![Driving Analysis](https://github.com/Rohit-Kiran/Auto-Gaurdian/blob/main/Driving%20Analysis.JPG)
-![Optimized Routes](https://github.com/Rohit-Kiran/Auto-Gaurdian/blob/main/Optimized%20Routes.JPG)
+![Log in](https://github.com/Rohit-Kiran/AutoGaurdian/blob/main/Assets/Log%20in.JPG)  
+![Home Page](https://github.com/Rohit-Kiran/AutoGaurdian/blob/main/Assets/Home%20page.JPG)
+![Maintenance Page](https://github.com/Rohit-Kiran/AutoGaurdian/blob/main/Assets/Maintenance%20Page.JPG)
+![Driving Analysis](https://github.com/Rohit-Kiran/Auto-Gaurdian/blob/main/Assets/Driving%20Analysis.JPG)
+![Optimized Routes](https://github.com/Rohit-Kiran/Auto-Gaurdian/blob/main/Assets/Optimized%20Routes.JPG)
 
 ---
 
