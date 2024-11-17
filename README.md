@@ -38,8 +38,11 @@ Explore the app prototype by clicking the link below:
 
 (Add image links or upload screenshots here)  
 E.g.,  
-![Dashboard](https://via.placeholder.com/300x200.png?text=Dashboard+Screenshot)  
-![Driver Insights](https://via.placeholder.com/300x200.png?text=Driver+Insights)
+![Log in](https://github.com/Rohit-Kiran/Auto-Gaurdian/blob/main/Log%20in.JPG)  
+![Home Page](https://github.com/Rohit-Kiran/Auto-Gaurdian/blob/main/Home%20page.JPG)
+![Maintenance Page](https://github.com/Rohit-Kiran/Auto-Gaurdian/blob/main/Maintenance%20Page.JPG)
+![Driving Analysis](https://github.com/Rohit-Kiran/Auto-Gaurdian/blob/main/Driving%20Analysis.JPG)
+![Optimized Routes](https://github.com/Rohit-Kiran/Auto-Gaurdian/blob/main/Optimized%20Routes.JPG)
 
 ---
 
